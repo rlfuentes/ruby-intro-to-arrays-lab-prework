@@ -1,1 +1,1 @@
-my_new array = instantiate_new_array
+my_new array = [instantiate_new_array]
